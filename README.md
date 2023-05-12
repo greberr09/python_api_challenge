@@ -2,6 +2,9 @@
 
 This challenge involves two different Python scripts for the two parts of the challenge.  The first part examines weather data for a random selection of at least 500 cities, and the second part uses the city data from the first part to create a list of desired vacation locations, then collect and map hotel information for each of those.
 
+Because the Juptyer notebook displays the maps beautifully with hover-over pop-ups when running, but the maps do not show when the notebook file is uploaded (repeatedly), screen prints of the two maps were
+added to the VacationPy folder.  This does not display the hover-over information, as running the screen capture software removes the focus from the hover, but running the notebook will show that working.
+
 #-----------------------------------
 #  Installation and setup
 #-----------------------------------
